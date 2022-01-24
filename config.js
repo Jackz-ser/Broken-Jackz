@@ -27,7 +27,7 @@ module.exports = {
     BLOCKCHAT: process.env.BLOCK_CHAT === undefined ? false : process.env.BLOCK_CHAT,
     WELCOME: process.env.WELCOME === undefined ? 'pp' : process.env.WELCOME,
     OWNER: process.env.OWNER_NAME === undefined ? '💖Rafi💖' : process.env.OWNER_NAME,
-    PHONE: process.env.NUMBER === undefined ? '+919605741366' : process.env.NUMBER,   
+    PHONE: process.env.NUMBER === undefined ? '+918075641889' : process.env.NUMBER,   
     OA_NAME: process.env.DEPLOYER === undefined ? 'Rafi,Ameen' : process.env.DEPLOYER,
     ALL: process.env.ALL_CAPTION === undefined ? 'Made By MissHelena' : process.env.ALL_CAPTION,
     MENTION: process.env.TAG_REPLY === undefined ? '436703081866810@s.whatsapp.net' : process.env.TAG_REPLY,
@@ -88,7 +88,7 @@ module.exports = {
     SUDO: process.env.SUDO === undefined ? false : process.env.SUDO,
     DEBUG: DEBUG,
     WITAI_API: "TEYMELA6DMC4XB5YM3SPTTQWUUIBKURG",
-    SUPPORT: "919072790587-1635775355",
+    SUPPORT: "918075641889",
     SUPPORT2: "905511384572-1617736751",
     SUPPORT3: "905511384572-1621015274"
 };
