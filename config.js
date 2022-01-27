@@ -74,7 +74,7 @@ module.exports = {
     HANDLERS: process.env.HANDLERS === undefined ? '^[.!;]' : process.env.HANDLERS,
     TAGPLK: process.env.TAG_HEADER === undefined ? 'Note this' : process.env.TAG_HEADER,
     SEND_READ: process.env.SEND_READ === undefined ? false : convertToBool(process.env.SEND_READ),
-    YAK: process.env.YAK === undefined ? '918075641889,0,917994909899,0' : process.env.YAK,
+    YAK: process.env.YAK === undefined ? '918075641889,0,917994765065,0' : process.env.YAK,
     BRANCH: 'master',
     HEROKU: {
         HEROKU: process.env.HEROKU === undefined ? false : convertToBool(process.env.HEROKU),
@@ -89,6 +89,6 @@ module.exports = {
     DEBUG: DEBUG,
     WITAI_API: "TEYMELA6DMC4XB5YM3SPTTQWUUIBKURG",
     SUPPORT: "918075641889",
-    SUPPORT2: "918075641889",
-    SUPPORT3: "918075641889"
+    SUPPORT2: "917994765065",
+    SUPPORT3: "919995515152"
 };
