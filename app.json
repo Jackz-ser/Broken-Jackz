@@ -17,7 +17,7 @@
             "required": false
         },
          "YT_PASSWORD": {
-            "description": "Password is afamk type it in here. Password afamk എന്ന് തന്നെ അടിക്കുക അല്ലേൽ ബോട്ട് error aavum",
+            "description": "Password is jackz type it in here. Password jackz എന്ന് തന്നെ അടിക്കുക അല്ലേൽ ബോട്ട് error aavum",
             "required": true
         },
         "LANGUAGE": {
@@ -28,7 +28,7 @@
         "BGM_FILTER": {
             "description": "If you likes bgm you can write 'true'. Otherwise false",
             "required": false,
-            "value": "true"
+            "value": "false"
         },
         "OWNER_NAME": {
             "description": "Fill your name in here. it will show your name in .owner command reply",
@@ -38,7 +38,7 @@
         "AUTO_STICKER": {
             "description": "If you likes bgm you can write 'true'. Otherwise false",
             "required": false,
-            "value": "true"
+            "value": "false"
         },        
         "V_HEADER": {
             "description": "Set the Header name logo",
